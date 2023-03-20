@@ -7,7 +7,7 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on sw companay.
+- 🔭 I’m currently working on sw academy.
 - 🌱 I’m currently learning Python & Java.
 - 👯 I’m looking to collaborate on every passionate people.
 - 💬 Ask me about everything.
