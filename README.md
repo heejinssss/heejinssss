@@ -1,6 +1,1 @@
-- 🔭 I’m currently working on sw academy.
-- 🌱 I’m currently learning Python & Java.
-- 👯 I’m looking to collaborate on every passionate people.
-- 💬 Ask me about everything.
-- 📫 How to reach me: heejin.dev33@gmail.com
-- ⚡ Fun fact: If you know something, please email me.
+Okay, Google. Decorate my github.
